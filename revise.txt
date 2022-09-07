@@ -1,1 +1,3 @@
-here text from main 
+here text from main
+here text from master
+and some new text which is good 
